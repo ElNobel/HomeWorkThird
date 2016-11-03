@@ -72,7 +72,7 @@ public class MultiMatrix {
         }
     }
 
-    public static boolean testMultyMatrix(int[][] firstMatrix, int[][] secondMatrix) {
+    public static boolean testMultiMatrix(int[][] firstMatrix, int[][] secondMatrix) {
         int[][] resultTestMatrix = {
                 {30, 24, 18},
                 {84, 69, 54},

@@ -20,7 +20,7 @@ public class MainStartClass {
                 {3, 2, 1}
         };
 
-        System.out.println(MultiMatrix.testMultyMatrix(firstTestMatrix, secondTestMatrix));
+        System.out.println(MultiMatrix.testMultiMatrix(firstTestMatrix, secondTestMatrix));
     }
 }
 
